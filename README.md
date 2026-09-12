@@ -1,10 +1,10 @@
-# QA Test Case Design — TripleTen (Sprint 9)
+# QA Test Case Design: TripleTen (Sprint 9)
 
-Manual QA deliverable from the TripleTen QA Analyst Program: a full test case design matrix for a web "Place Order" checkout flow, built using industry-standard test design techniques.
+A manual QA deliverable from my time in the TripleTen QA Analyst Program: a full test case design matrix for a web "Place Order" checkout flow, built using industry-standard test design techniques.
 
 ## What's inside
 
-- `Jeferson_Schneider_sprint9-QA32_EN.pdf` — complete test case matrix
+- `Jeferson_Schneider_sprint9-QA32_EN.pdf`: complete test case matrix
 
 ## Techniques applied
 
